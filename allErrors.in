@@ -1,0 +1,7 @@
+"unterminated
+"also unterminated \"
+"
+"bad escaped character: \3
+"bad \vi
+"backslash followed by space\ is not allowed"
+"bad escaped character: \a AND not terminated"
